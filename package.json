@@ -1,0 +1,5 @@
+{
+  "name": "dark-preview",
+  "theme": "preview",
+  "styleSheets": ["rainbow-hljs.css", "dark-markdown.css"]
+}
